@@ -1,3 +1,5 @@
 HERE IS MY FIRST FILE.
 Here is a line in the middle
 It's a wonderfull text file.
+You forgot to put in a second file.
+It's a wonderfull text file.
